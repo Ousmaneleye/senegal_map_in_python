@@ -13,6 +13,8 @@ python3 main.py
 
 
 ## Author
+![moi](https://user-images.githubusercontent.com/74149780/205404113-8389d4d6-6551-4ec4-a95a-56e52f664d93.jpeg)
+
 * OUSMANE LEYE
-** `Github` : https://github.com/Ousmaneleye
-** `Linkedin` : https://www.linkedin.com/in/ousmane-leye-407768199/
+* `Github` : https://github.com/Ousmaneleye
+* `Linkedin` : https://www.linkedin.com/in/ousmane-leye-407768199/
