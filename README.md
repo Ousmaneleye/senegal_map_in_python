@@ -14,6 +14,5 @@ python3 main.py
 
 ## Author
 
-* `OUSMANE LEYE`
 * `Github` : https://github.com/Ousmaneleye
 * `Linkedin` : https://www.linkedin.com/in/ousmane-leye-407768199/
