@@ -1,5 +1,4 @@
-# senegal_map_in_python
-Dessiner la carte du Sénégal avec Python
+# Dessiner la carte du Sénégal avec Python
 
 ## Download and run the program
 
@@ -9,3 +8,6 @@ cd senegal_map_in_python
 pip install -r requirements
 python3 main.py
 ```
+## Author
+* Github https://github.com/Ousmaneleye
+* Linkedin https://www.linkedin.com/in/ousmane-leye-407768199/
